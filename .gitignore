@@ -1,0 +1,31 @@
+# Node.js dependencies
+client/node_modules/
+server/node_modules/
+
+# Build outputs
+client/build/
+client/dist/
+server/dist/
+
+# Environment variable files
+client/.env
+server/.env
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Optional: package lock files (if you prefer ignoring them)
+# client/package-lock.json
+# server/package-lock.json
+
+# Optional: if using yarn
+# client/yarn.lock
+# server/yarn.lock
