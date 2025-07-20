@@ -8,7 +8,7 @@ To install this project, follow these steps:
 <p>1. Clone the repository to your local machine.</p>
 
 ```bash
-git clone https://github.com/prathamesh-a/graphical-password-authentication.git
+git clone https://github.com/varshith2303/graphicalpassword
 ```
 
 <p>2. Navigate to the <b><code>server</code></b> folder inside the root project location.</p>
