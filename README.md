@@ -44,16 +44,6 @@ Instead of only typing a password, users select a sequence of images from dynami
 
 ---
 
-## 📸 Screenshots
-- Landing Page  
-- Signup (with image theme selection)  
-- Graphical Password Selection Grid  
-- Login Flow  
-- Account Blocked & Email Recovery  
-
-*(Add your screenshots here using `![alt text](path/to/image.png)`)*
-
----
 
 ## 🔑 How It Works
 1. **Signup**
@@ -132,5 +122,6 @@ Research papers and resources related to **Graphical Password Authentication**
 ## 👨‍💻 Author
 **Kasaram Varshith**  
 Final Year CSE-AIML Student  
+
 
 
