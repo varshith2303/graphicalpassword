@@ -20,7 +20,7 @@ const swaggerDocument = JSON.parse(
 );
 
 app.use(cors({
-    origin: 'http://localhost:3000'  // Allow requests from React app
+    origin: 'graphicalpassword-varshith.vercel.app'
 }));
 app.use(bodyParser.json());
 
