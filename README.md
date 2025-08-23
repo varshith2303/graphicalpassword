@@ -1,5 +1,5 @@
-# 🔐 Graphical Password Authentication System
 
+# 🔐 Graphical Password Authentication System
 A **secure and user-friendly authentication system** that replaces traditional text-based passwords with a **graphical password mechanism**.  
 Instead of only typing a password, users select a sequence of images from dynamically generated grids, making it resistant to brute-force, phishing, and shoulder-surfing attacks.
 
