@@ -19,9 +19,12 @@ const swaggerDocument = JSON.parse(
     )
 );
 
-app.use(cors({
-    origin: 'graphicalpassword-varshith.vercel.app'
-}));
+app.use(
+  cors({
+    origin: process.env.CLIENT_URL || 'http://localhost:3000',
+    credentials: true, // if you’re sending cookies/auth headers
+  })
+);
 app.use(bodyParser.json());
 
 app.use('/api/verify', VerifyRoute);
