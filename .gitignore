@@ -17,10 +17,13 @@ server/.env
 # OS-specific files
 .DS_Store
 Thumbs.db
+SCREENSHOTS.md
+
 
 # IDE files
 .vscode/
 .idea/
+
 
 # Optional: package lock files (if you prefer ignoring them)
 # client/package-lock.json
